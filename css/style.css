@@ -141,3 +141,34 @@ footer h4{
     color: white;
     padding-bottom: 20px;
 }
+.dev-s{
+    background-image: url(/img/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 6% 15%;
+
+}
+.dev-ss{
+    background-image: url(/img/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 12%;
+    background-position: 87% 75%; 
+}
+.dev-sss{
+    background-image: url(/img/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 12%;
+    background-position: 13% 2%;
+}
+.dev-ssss{
+    background-image: url(/img/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 6%;
+    background-position: 32% 58%;
+}
+.dev-sssss{
+    background-image: url(/img/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 6%;
+    background-position: 15% 75%;
+}
