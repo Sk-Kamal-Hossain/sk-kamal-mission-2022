@@ -41,7 +41,7 @@ h1{
     text-align: center;
 }
 .mission{
-    box-shadow: 10px 5px 10px cyan;
+    box-shadow: 10px 5px 10px #EDF5F6;
     padding-left: 2%;
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
@@ -53,7 +53,7 @@ h1{
     width: 70%;
 }
 .vission{
-    box-shadow: 10px 5px 10px cyan;
+    box-shadow: 10px 5px 10px #FBEAEA;
     padding-left: 2%;
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
@@ -65,13 +65,16 @@ h1{
     width: 70%;
 }
 .goal{
-    box-shadow: 10px 5px 10px cyan;
+    box-shadow: 10px 5px 10px #FBF0D2;
     padding-left: 2%;
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     margin-right: 40px;
     width: 30%;
     border-radius: 10px;
+}
+.goal p{
+    margin-left: 1px;
 }
 .goal img{
     width: 70%;
@@ -116,4 +119,20 @@ h1{
     margin-left: -250px;
     margin-top: 20px;
     padding-left: 30%;
+}
+.red{
+    color: red;
+}
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    margin-bottom: -10px;
+    padding-top: 10px;
+}
+footer h2{
+    color: white;
+}
+footer h4{
+    color: white;
+    padding-bottom: 20px;
 }
