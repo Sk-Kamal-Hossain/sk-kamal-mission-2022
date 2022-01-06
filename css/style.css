@@ -78,14 +78,23 @@ h1{
 }
 .developer{
     display: flex;
-    width: 50%;
+    width: 100%;
     padding-left: 10%;
     padding-right: 10%;
     padding-bottom: 10%;
 }
 .developer img{
-    width: 100%;
+    width: 60%;
+    margin-top: 15px;
 }
 .dev-text{
     padding-left: 10%;
+    width: 150%;
+    margin-right: 40px;
+    margin-left: -250px;
+    margin-top: 30px;
+}
+#top{
+    line-height:1.25em;
+    margin:0;
 }
